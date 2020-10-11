@@ -1,1 +1,2 @@
-# Monkey-is-happy
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
